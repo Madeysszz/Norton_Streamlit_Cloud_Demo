@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+test-results/
+.streamlit/secrets.toml
+.env
+.env.*
+data/
+outputs/
+*.db
+*.sqlite
+*.sqlite3
+*.joblib
+*.pkl
+*.log
